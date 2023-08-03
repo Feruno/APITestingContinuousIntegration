@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/awjee9o8dynw8ubu?svg=true)](https://ci.appveyor.com/project/Feruno/apitestingcontinuousintegration)
